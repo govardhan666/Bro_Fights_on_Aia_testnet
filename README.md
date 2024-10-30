@@ -7,12 +7,15 @@ Deployed smart contract on AIA testnet : https://testnet.aiascan.com/address/0xb
 
 ## Welcome to BRO💪FIGHTS Homepage
 
+![Screenshot_30-10-2024_2184_localhost](https://github.com/user-attachments/assets/11781c5f-dcdd-405f-8eed-a3c00bb89506)
 
 ## Marketplace page
 
+![Screenshot_30-10-2024_21819_localhost](https://github.com/user-attachments/assets/95d59f1e-e599-47c6-a3b5-36b09dc0d9b8)
 
 ## Game Play page
 
+![Screenshot_30-10-2024_21840_localhost](https://github.com/user-attachments/assets/5cba374c-e171-4389-add7-8eda5c9e218a)
 
 ## Requirements
 
